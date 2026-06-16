@@ -51,15 +51,11 @@ Backend Engineer  ->  Automation Builder  ->  AI Workflow Practitioner
 
 ## 我的工作方式
 
-```mermaid
-flowchart LR
-    A[真实问题] --> B[拆流程]
-    B --> C[找可自动化环节]
-    C --> D[快速做小工具]
-    D --> E[跑真实数据]
-    E --> F[修边界和异常]
-    F --> G[沉淀成脚本 / Skill / 模板]
-```
+<div align="center">
+
+<img src="./assets/workflow.svg" alt="workflow" width="100%" />
+
+</div>
 
 ## 我适合做的事
 
@@ -83,7 +79,7 @@ Content Tools  ████████████████░░░░░  
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=wangyong5609&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+<img src="./assets/profile-metrics.svg" alt="profile metrics" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wangyong5609&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyong5609&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
